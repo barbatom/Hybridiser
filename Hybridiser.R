@@ -2,7 +2,7 @@
 # Elisa Somenzi & Mario Barbato 2020
 # If you  use this script please cite:
 # Identification of Ancestry Informative Marker panels to assess hybridisation between feral and domestic sheep 
-# (Somenzi E, Ajmone Marsan P, Barbato M, 2020) DOI: xxx
+# (Somenzi E, Ajmone Marsan P, Barbato M, 2020) DOI: 10.3390/ani10040582
 # 
 # Parameters:
 # parent_1.ped  : ped file for parent population 1
